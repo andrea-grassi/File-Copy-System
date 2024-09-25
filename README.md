@@ -78,3 +78,12 @@ If a file with the same name already exists in the destination folder, the appli
 ## 5. Completion:
 
 When the file copying process is completed, a popup message will inform you that the operation was successful.
+
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Contributing
+
+Contributions are welcome! Please fork this repository and submit a pull request with your changes.
